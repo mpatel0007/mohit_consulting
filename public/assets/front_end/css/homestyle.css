@@ -1,0 +1,17 @@
+#make_Favourite{
+    background: transparent;
+    border: none;
+    background:none;
+    outline: none !important;
+  }
+  .notification{
+    float: right;
+    width: 20px;
+    height: 20px;
+    background: #26ae61;
+    text-align: center;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 12px;
+    line-height: 20px;
+}
